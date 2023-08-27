@@ -1,0 +1,58 @@
+*{
+    padding:0;
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div {
+    width: 750px;
+    height: 500px;
+    box-sizing: border-box;
+    margin: 20px;
+}
+
+h1 {
+    margin: 20px;
+    margin-bottom: 10px;
+}
+
+.pone{
+    background-color: rgb(255, 6, 6);
+    border: solid 10px red;
+    font-size: 20px;
+    margin-bottom: 10px;
+    width: 600px;
+    height: 40px;
+}
+.ptwo {
+   background-color: rgb(196, 214, 253);
+   border: solid 10px  rgb(196, 214, 253) ;
+   margin-bottom: 10px;
+   font-size: 20px;
+   width: 480px;
+   height: 40px;
+}
+.pthree {
+background-color: rgb(240, 215, 184);
+border:solid 10px  rgb(240, 215, 184);
+margin-bottom: 10px;
+font-size: 20px;
+width: 380px;
+height: 40px;
+}
+.pfour {
+    background-color: aqua ;
+    border: solid 10px aqua;
+    margin-bottom: 10px;
+    font-size: 20px;
+    width: 300px;
+    height: 40px;
+}
+.pfive {
+    background-color: black;
+    border: solid 10px black;
+    margin-bottom: 10px;
+    font-size: 20px;
+    width: 220px;
+    height: 40px;
+
+}
